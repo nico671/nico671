@@ -1,8 +1,9 @@
 ### Hello World! 👋, I'm Nicolas Carbone
 
-### Aspiring Software Engineer
+### - Aspiring Software Engineer
+### - University Of Maryland Computer Science Student
 
-  - I’m currently working on: __A Student Planning Mobile App & Improving My Python Skills__ 
+  - I’m currently working on: __A Student Assignment Planning Mobile App & Improving My Python Skills__ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671)](https://github.com/anuraghazra/github-readme-stats)
 
