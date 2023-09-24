@@ -1,4 +1,4 @@
-### Nicolas Carbone - University of Maryland Computer Science Student
+### Nicolas Carbone - Computer Science major at the University of Maryland
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
