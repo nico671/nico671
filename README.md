@@ -5,7 +5,7 @@
 - Self-taught coder with 5 years of experience!
 - Formerly Undergraduate Research Fellow at the National Institute of Standards and Technology!
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nico671)](https://git.io/streak-stats)
 <!--
 **nico671/nico671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
