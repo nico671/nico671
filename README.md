@@ -11,6 +11,8 @@
 |  |      /  /_\  \   |      /     |   _  <  |  |  |  | |  . `  | |   __|  
 |  `----./  _____  \  |  |\  \----.|  |_)  | |  `--'  | |  |\   | |  |____ 
  \______/__/     \__\ | _| `._____||______/   \______/  |__| \__| |_______|
+
+
 ## About me
 - Sophomore majoring in CS (Machine Learning Track) and Math (Applied Mathematics track) at the University of Maryland!
 - Self-taught coder with 5 years of experience!
