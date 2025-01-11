@@ -10,6 +10,6 @@
 - 🌱 I’m currently learning: DVC and Tensorflow
 - 📫 How to reach me: carbone.nicolas0@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Mi primer idioma (y favorito) fue el Español.
+- ⚡ Fun fact: Mi primer idioma fue el Español (sigue como mi favorito).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&exclude_repo=optitask,aquarius)](https://github.com/anuraghazra/github-readme-stats)
