@@ -1,7 +1,12 @@
-### Nicolas Carbone - Computer Science major at the University of Maryland
+# Hi there! I'm Nicolas Carbone 
+
+## About me
+- Sophomore majoring in CS (Machine Learning Track) and Math (Applied Mathematics track) at the University of Maryland!
+- Self-taught coder with 5 years of experience!
+- Formerly Undergraduate Research Fellow at the National Institute of Standards and Technology!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=nico671)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nico671/nico671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
