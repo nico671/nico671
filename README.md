@@ -13,4 +13,3 @@
 - ⚡ Fun fact: Mi primer idioma fue el Español (sigue como mi favorito).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&exclude_repo=optitask,aquarius)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nico671&hide=contribs,prs)
