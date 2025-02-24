@@ -7,7 +7,7 @@
 
 ## Quick Facts
 - 🔭 I’m currently working on: pybaseballstats, a Python package for scraping sabermetric data from sites such as Baseball Savant, Fangraphs and more!
-- 🌱 I’m currently learning: DVC and Tensorflow
+- 🌱 I’m currently learning: BeautifulSoup4 and Polars
 - 📫 How to reach me: carbone.nicolas0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mi primer idioma fue el Español (sigue como mi favorito).
