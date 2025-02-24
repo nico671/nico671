@@ -6,7 +6,7 @@
 - 🏢 Formerly Undergraduate Research Fellow at the National Institute of Standards and Technology!
 
 ## Quick Facts
-- 🔭 I’m currently working on: PitchPredict, an AI model for predicting what pitch an MLB pitcher will throw next
+- 🔭 I’m currently working on: pybaseballstats, a Python package for scraping sabermetric data from sites such as Baseball Savant, Fangraphs and more!
 - 🌱 I’m currently learning: DVC and Tensorflow
 - 📫 How to reach me: carbone.nicolas0@gmail.com
 - 😄 Pronouns: He/Him
