@@ -12,4 +12,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mi primer idioma fue el Español (sigue como mi favorito).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&exclude_repo=optitask,aquarius,resourceful_frontend)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&exclude_repo=optitask,aquarius,resourceful_frontend,umdscheduler)](https://github.com/anuraghazra/github-readme-stats)
