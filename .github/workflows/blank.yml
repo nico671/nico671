@@ -1,0 +1,29 @@
+name: Refresh Top Langs Card
+
+on:
+  schedule:
+    # Runs every 24 hours
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Top Languages Card
+        run: |
+          # You can also add theme/layout parameters here
+          curl "https://github-readme-stats.vercel.app/api/top-langs/?username=nico671&layout=compact&theme=radical" > ./top-langs.svg
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add top-langs.svg
+          # Only commit if the file actually changed
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: update top languages card" && git push)
