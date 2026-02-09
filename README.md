@@ -12,4 +12,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mi primer idioma fue el Español (sigue como mi favorito).
 
-![My Top Languages](./top-langs.svg)
+<img src="https://raw.githubusercontent.com/nico671/nico671/main/top-langs.svg" />
