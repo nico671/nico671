@@ -6,8 +6,8 @@
 - 🏢 Incoming AI Engineer intern at [Strategy](https://www.strategysoftware.com/). Formerly Undergraduate Research Fellow at the [National Institute of Standards and Technology](https://www.nist.gov/)!
 
 ## Quick Facts
-- 🔭 I’m currently working on: pybaseballstats, a Python package for scraping sabermetric data from sites such as Baseball Savant, Fangraphs and more!
-- 🌱 I’m currently learning: BeautifulSoup4 and Polars
+- 🔭 I’m currently working on: pybaseballstats, a Python package for scraping sabermetric data from sites such as Baseball Savant, Baseball Reference and more!
+- 🌱 I’m currently learning: Pytorch
 - 📫 How to reach me: carbone.nicolas0@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Mi primer idioma fue el Español (sigue como mi favorito).
