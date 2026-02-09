@@ -2,8 +2,8 @@
 
 ## Get to know me
 - 📚 Junior majoring in CS (Machine Learning Track) and Mathematics at the University of Maryland!
-- 🧑‍💻 Self-taught coder with 5 years of experience!
-- 🏢 Formerly Undergraduate Research Fellow at the National Institute of Standards and Technology!
+- 🧑‍💻 Self-taught coder with 6 years of experience!
+- 🏢 Incoming AI Engineer intern at [Strategy](https://www.strategysoftware.com/). Formerly Undergraduate Research Fellow at the [National Institute of Standards and Technology](https://www.nist.gov/)!
 
 ## Quick Facts
 - 🔭 I’m currently working on: pybaseballstats, a Python package for scraping sabermetric data from sites such as Baseball Savant, Fangraphs and more!
