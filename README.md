@@ -3,7 +3,7 @@
 ## Get to know me
 - 📚 Senior majoring in CS (Machine Learning Track) and Mathematics at the University of Maryland!
 - 🧑‍💻 Self-taught coder with 6 years of experience!
-- 🏢 AI Engineer intern at [Strategy](https://www.strategysoftware.com/). Formerly an Undergraduate Research Fellow at the [National Institute of Standards and Technology](https://www.nist.gov/)!
+- 🏢 Formerly an AI Engineer intern at [Strategy](https://www.strategysoftware.com/). Formerly an Undergraduate Research Fellow at the [National Institute of Standards and Technology](https://www.nist.gov/)!
 
 ## Quick Facts
 - 🔭 I’m currently working on: [pybaseballstats](https://github.com/nico671/pybaseballstats), a Python package for scraping sabermetric data, and [Prophet](https://github.com/nico671/prophet), a UCI chess engine written from scratch in C!
