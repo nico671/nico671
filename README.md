@@ -16,4 +16,4 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nico671&rank_icon=github&show_icons=true&include_all_commits=true&theme=panda)](https://github-stats-extended.vercel.app/api?username=nico671&rank_icon=github&show_icons=true&include_all_commits=true&theme=panda)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nico671&langs_count=4&theme=panda)](https://github-stats-extended.vercel.app/api/top-langs?username=nico671&langs_count=4&theme=panda&hide=jupyter%20notebook)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nico671&langs_count=4&theme=panda&hide=jupyter%20notebook)](https://github-stats-extended.vercel.app/api/top-langs?username=nico671&langs_count=4&theme=panda&hide=jupyter%20notebook)
