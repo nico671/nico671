@@ -13,3 +13,5 @@
 - ⚡ Fun fact: Mi primer idioma fue el español (sigue siendo mi favorito).
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=n_carbone67&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nico671&rank_icon=github&show_icons=true&include_all_commits=true&theme=panda)](https://github-stats-extended.vercel.app/api?username=nico671&rank_icon=github&show_icons=true&include_all_commits=true&theme=panda)
