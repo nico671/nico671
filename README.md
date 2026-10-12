@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=00F712&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi%2C;I'm+Nicolas+Carbone)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=48&pause=500&color=00F712&vCenter=true&multiline=true&repeat=false&width=435&lines=Hi%2C;I'm+Nicolas+Carbone)](https://git.io/typing-svg)
 
 ## Get to know me
 - 📚 Senior majoring in CS (Machine Learning Track) and Mathematics at the University of Maryland!
